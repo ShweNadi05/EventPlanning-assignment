@@ -1,0 +1,34 @@
+.about_header{
+    padding-left: 5%;
+    padding-right: 3%;
+    font-weight: lighter;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.about_card{
+    display: flex;
+    width: 98%;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.about_image{
+    width: 50%;
+    height: 200px;
+    padding-bottom: 20px;
+}
+.about_image_text{
+    width: 50%;
+    height: 20%;
+}
+.heading{
+    margin-left: 5%;
+}
+.awards{
+    padding-top: 3%;
+    font-size: medium;    
+}
+.awards_lists{
+    width: 50%;    
+}

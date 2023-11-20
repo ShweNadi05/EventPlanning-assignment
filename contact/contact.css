@@ -1,0 +1,46 @@
+.image_container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.image_container img{
+    width: 100%;
+    height: 500px;
+}
+.img_text{
+    position: absolute;
+    top : 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 30px;
+}
+.body_text{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.body_heading{
+    width: 100%;
+    text-align: center;
+}
+.body_letter{
+    width: 50%;
+    text-align: center;
+    border-bottom: 1px solid aquamarine;
+    padding-bottom: 10px;
+}
+.location_contact{
+    margin-top: 55px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 55px;
+}
+.contact_info{
+    margin-top: 50px;
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+}
